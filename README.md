@@ -6,7 +6,6 @@ Esta "API" corresponde a un ejercicio de programación, mi idea era proveer un s
 La "API" es un simple endpoint corriendo sobre la librería Falcon (python), también usa SQLAlchemy y PosgtreSQL como DB. Y por supuesto usa Hidrógeno (https://github.com/nicolasmendoza/hidrogeno), hidrógeno "alimenta" la db. 
 Una lástima no haber alcanzado a terminar lo que había planeado para este "Microservice".  
 
-Enjoy!:
 
 Endpoint: http://hidrogeno-ml.herokuapp.com/v1/pronosticos/dia/566
 
