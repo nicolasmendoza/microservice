@@ -1,8 +1,6 @@
 Microservicio
 ===============================
 
-![Deploy](https://www.herokucdn.com/deploy/button.svg)
-
 Esta "API" corresponde a un ejercicio de programación, mi idea era proveer un set de endpoints pero finalmente no ha sido posible. La API permite consultar el pronóstico de tiempo por día, el pronóstico corresponde a una galaxia lejana y ficticia.
 
 La "API" es un simple endpoint corriendo sobre la librería Falcon (python), también usa SQLAlchemy y PosgtreSQL como DB. Y por supuesto usa Hidrógeno (https://github.com/nicolasmendoza/hidrogeno), hidrógeno "alimenta" la db. 
